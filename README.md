@@ -39,6 +39,9 @@ Se requiere el análisis analítico del circuito mostrado en la figura 4.1., apl
 
 # 4.3 MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/117781501/209352594-efa39b57-8fe1-4348-8e0c-0b4ba36d961c.png)
+
+
 # 4.4. MATERIAL Y EQUIPO REQUERIDO
 
 ![image](https://user-images.githubusercontent.com/117781501/209268232-34607236-7d6f-49f2-bf0d-3fab4eaaf79d.png)
